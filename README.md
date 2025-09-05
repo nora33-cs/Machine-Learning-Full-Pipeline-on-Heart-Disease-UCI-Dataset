@@ -29,9 +29,6 @@ Matplotlib & Seaborn
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/heart-disease-ml.git
 
 
 Navigate to the project folder:
